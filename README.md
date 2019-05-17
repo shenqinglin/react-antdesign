@@ -1,3 +1,4 @@
+创建项目流程参考这里 [从0开始创建react项目](https://www.jianshu.com/p/3565de5e3f2f)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
