@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { HashRouter, Switch, Route } from 'react-router-dom'
-import asyncComponent from '../utils/asyncComponent'
-import home from '../pages/home/home'
-const record = asyncComponent(() => import('../pages/record/record'))
+import asyncComponent from '@/utils/asyncComponent'
+import home from '@/pages/home/home'
+const record = asyncComponent(() => import('@/pages/record/record'))
 export default class RouteConfig extends Component {
   render() {
     return (
